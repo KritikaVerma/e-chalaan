@@ -1,0 +1,4 @@
+class kratika
+{
+sop(ankit baangdu)
+}
